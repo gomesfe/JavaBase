@@ -1,7 +1,9 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio05 {
+//Calcula salário bruto e líquido de um professor
+
+public class SalarioProfessor {
     public static void main(String[] args) {
 
         DecimalFormat df = new DecimalFormat("0.00");

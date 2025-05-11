@@ -1,7 +1,9 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio07 {
+//Avalia expressão matemática com potências e raízes
+
+public class ExpressaoMatematica {
     public static void main(String[] args) {
         DecimalFormat df = new DecimalFormat("0.000000");
         Scanner sc = new Scanner(System.in);

@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Exercicio08 {
+//Extrai o dígito da dezena de um número de 3 dígitos
+
+public class ExtrairDezena {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int valor, dezena;

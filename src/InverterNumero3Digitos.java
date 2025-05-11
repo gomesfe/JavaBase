@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Exercicio09 {
+//Inverte os dígitos de um número de 3 dígitos
+
+public class InverterNumero3Digitos {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int valor, valorInvertido;

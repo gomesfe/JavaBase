@@ -1,7 +1,9 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio04 {
+//Calcula valor de kWh com base no salário mínimo
+
+public class ContaEnergiaEletrica {
     public static void main(String[] args) {
         DecimalFormat df = new DecimalFormat("0.00");
         Scanner sc = new Scanner(System.in);

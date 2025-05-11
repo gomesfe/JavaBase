@@ -1,7 +1,9 @@
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Exercicio06 {
+//Cálculo de raiz a partir de expressão com cúbica e quadrada
+
+public class CalculoRaizCubo {
     public static void main(String[] args) {
         DecimalFormat df = new DecimalFormat("0.000");
         Scanner sc = new Scanner(System.in);

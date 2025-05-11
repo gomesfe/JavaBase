@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
-public class Exercicio10 {
+//Converte número binário de 4 dígitos para decimal
+
+public class BinarioParaDecimal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int binario, decimal;
